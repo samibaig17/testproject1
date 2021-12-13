@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+
+/4file.tsx
 /.pnp
 .pnp.js
 
